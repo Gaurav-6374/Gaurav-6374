@@ -34,7 +34,5 @@ Greetings!✨ Gaurav Kumar here. Aspiring Data Analyst from Aligarh, Uttar Prade
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
  ![Kaggle](https://img.shields.io/badge/Kaggle-D00000?style=plastic&logo=kaggle&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Gaurav-6374&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-6374&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
