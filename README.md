@@ -8,14 +8,15 @@ Greetings!✨ Gaurav Kumar here. Aspiring Data Analyst from Aligarh, Uttar Prade
 
 ## 🌐 Socials:
 <a href="https://instagram.com/_gauravbg.___">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" style="border-radius: 50%; width: 40px; height: 40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Instagram_logo_2022.svg" alt="Instagram" style="border-radius: 50%; width: 40px; height: 40px;">
 </a>
 <a href="https://linkedin.com/in/gauravkumarrrr/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" style="border-radius: 50%; width: 40px; height: 40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/LinkedIn_Logo_2023.png" alt="LinkedIn" style="border-radius: 50%; width: 40px; height: 40px;">
 </a>
 <a href="mailto:iamgaurav6374@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Gmail_Icon.svg" alt="Email" style="border-radius: 50%; width: 40px; height: 40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Gmail_Logo_2022.svg" alt="Email" style="border-radius: 50%; width: 40px; height: 40px;">
 </a>
+
 
 
 
