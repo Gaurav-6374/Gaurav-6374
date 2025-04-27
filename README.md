@@ -1,7 +1,7 @@
 ## Hi👋 I'm Gaurav.
 
-# 💫 About Me:
-Gaurav Kumar, a 21-year-old aspiring Data Analyst from Aligarh, Uttar Pradesh. Proficient in Excel, SQL, Power BI, Tableau, Looker Studio, and Python (NumPy, Pandas, Seaborn, Matplotlib). Holds a B.Com and is currently pursuing an MBA in Operations Management, fueled by a passion for data analysis.
+# 💫 Glad to see you here !
+Hi Hello This is Gaurav Kumar, a 21-year-old aspiring Data Analyst from Aligarh, Uttar Pradesh. Proficient in Excel, SQL, Power BI, Tableau, Looker Studio, and Python (NumPy, Pandas, Seaborn, Matplotlib). Holds a B.Com and is currently pursuing an MBA in Operations Management, fueled by a passion for data analysis.
 
 
 ## 🌐 Socials:
