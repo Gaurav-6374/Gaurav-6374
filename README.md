@@ -5,7 +5,7 @@ Hi Hello This is Gaurav Kumar, a 21-year-old aspiring Data Analyst from Aligarh,
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gauravbg.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauravkumarrrr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamgaurav6374@gmail.com) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gauravbg.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauravkumarrrr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=yellow)](mailto:iamgaurav6374@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
