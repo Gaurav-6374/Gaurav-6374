@@ -6,7 +6,7 @@
 Greetings!✨ Gaurav Kumar here. Aspiring Data Analyst from Aligarh, Uttar Pradesh. My superpower? Turning numbers into knowledge. 💪
 
 
-## 🌐 Hit me up here!
+## Hit me up here!
 <a href="https://instagram.com/_gauravbg.___">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" style="border-radius: 50%; width: 40px; height: 40px;">
 </a>
@@ -18,7 +18,8 @@ Greetings!✨ Gaurav Kumar here. Aspiring Data Analyst from Aligarh, Uttar Prade
 </a>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=power-bi&logoColor=black)
  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-000000?style=plastic&logo=looker&logoColor=white)
