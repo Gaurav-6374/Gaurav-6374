@@ -7,9 +7,16 @@ Greetings!✨ Gaurav Kumar here. Aspiring Data Analyst from Aligarh, Uttar Prade
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gauravbg.___)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravkumarrrr/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=yellow)](mailto:iamgaurav6374@gmail.com)
+<a href="https://instagram.com/_gauravbg.___">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" style="border-radius: 50%; width: 40px; height: 40px;">
+</a>
+<a href="https://linkedin.com/in/gauravkumarrrr/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" alt="LinkedIn" style="border-radius: 50%; width: 40px; height: 40px;">
+</a>
+<a href="mailto:iamgaurav6374@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gmail_Icon.svg/1200px-Gmail_Icon.svg.png" alt="Email" style="border-radius: 50%; width: 40px; height: 40px;">
+</a>
+
  
 
 # 💻 Tech Stack:
